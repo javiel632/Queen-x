@@ -1,0 +1,17 @@
+node_modules
+.env
+.env.local
+sessions/
+*.log
+.DS_Store
+dist/
+build/
+temp/
+cache-temp/
+.vscode/
+.idea/
+package-lock.json
+yarn.lock
+npm-debug.log*
+.next/
+.nuxt/
